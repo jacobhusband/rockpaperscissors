@@ -1,2 +1,30 @@
+.images {
+  width: 100px;
+  margin: 0.5em;
+}
 
+.content {
+  display: flex;
+  justify-content: center;
+}
 
+.score {
+  font-size: 30px;
+}
+
+.score-content {
+  display: flex;
+}
+
+span {
+  margin: 0 0.5em;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  font: helvetica, arial, sans-serif;
+  padding: 0.5em;
+  font-size: 72px;
+}
